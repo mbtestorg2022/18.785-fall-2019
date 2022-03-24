@@ -4,7 +4,7 @@ title: Lecture Notes
 uid: 0cc41457-83fc-de21-f646-f683066b881f
 ---
 
-The complete lecture notes ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Number Theory I_ (PDF - 8.4MB)]({{< baseurl >}}/resources/mit18_785f19_full_notes) can be used as the online textbook for this course.
+The complete lecture notes [_Number Theory I_ (PDF - 8.4MB)]({{< baseurl >}}/resources/mit18_785f19_full_notes) can be used as the online textbook for this course.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -24,7 +24,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Absolute values and discrete valuations (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec1)
+[Absolute values and discrete valuations (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec1)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -33,7 +33,7 @@ TOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Localization and Dedekind domains (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec2)
+[Localization and Dedekind domains (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec2)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +42,7 @@ TOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Properties of Dedekind domains, ideal class groups, factorization of ideals (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec3)
+[Properties of Dedekind domains, ideal class groups, factorization of ideals (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec3)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +51,7 @@ TOPICS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Étale algebras, norm and trace (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec4)
+[Étale algebras, norm and trace (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec4)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +60,7 @@ TOPICS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Dedekind extensions (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec5)
+[Dedekind extensions (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec5)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +69,7 @@ TOPICS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Ideal norms and the Dedekind-Kummer theorem (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec6)
+[Ideal norms and the Dedekind-Kummer theorem (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec6)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +78,7 @@ TOPICS
 7
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Galois extensions, Frobenius elements, and the Artin map (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec7)
+[Galois extensions, Frobenius elements, and the Artin map (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec7)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +87,7 @@ TOPICS
 8
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Complete fields and valuation rings (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec8)
+[Complete fields and valuation rings (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec8)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +96,7 @@ TOPICS
 9
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Local fields and Hensel's lemmas (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec9)
+[Local fields and Hensel's lemmas (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec9)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +105,7 @@ TOPICS
 10
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Extensions of complete DVRs (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec10)
+[Extensions of complete DVRs (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec10)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +114,7 @@ TOPICS
 11
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Totally ramified extensions and Krasner's lemma (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec11)
+[Totally ramified extensions and Krasner's lemma (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec11)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,7 +123,7 @@ TOPICS
 12
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The different and the discriminant (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec12)
+[The different and the discriminant (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec12)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -132,7 +132,7 @@ TOPICS
 13
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Global fields and the product formula (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec13)
+[Global fields and the product formula (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec13)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -141,7 +141,7 @@ TOPICS
 14
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The geometry of numbers (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec14)
+[The geometry of numbers (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec14)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,7 +150,7 @@ TOPICS
 15
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Dirichlet's unit theorem (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec15)
+[Dirichlet's unit theorem (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec15)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -159,7 +159,7 @@ TOPICS
 16
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Riemann's zeta function and the prime number theorem (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec16)
+[Riemann's zeta function and the prime number theorem (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec16)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -168,7 +168,7 @@ TOPICS
 17
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The functional equation (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec17)
+[The functional equation (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec17)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -177,7 +177,7 @@ TOPICS
 18
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Dirichlet _L_\-functions and primes in arithmetic progressions (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec18)
+[Dirichlet _L_\-functions and primes in arithmetic progressions (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec18)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -186,7 +186,7 @@ TOPICS
 19
 {{< tdclose >}}
 {{< tdopen >}}
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)The analytic class number formula (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec19)
+[The analytic class number formula (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec19)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -195,7 +195,7 @@ TOPICS
 20
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Kronecker-Weber theorem (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec20)
+[The Kronecker-Weber theorem (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec20)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -204,7 +204,7 @@ TOPICS
 21
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Class field theory: ray class groups and ray class fields (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec21)
+[Class field theory: ray class groups and ray class fields (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec21)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -213,7 +213,7 @@ TOPICS
 22
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The main theorems of global class field theory (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec22)
+[The main theorems of global class field theory (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec22)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -222,7 +222,7 @@ TOPICS
 23
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Tate cohomology (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec23)
+[Tate cohomology (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec23)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -231,7 +231,7 @@ TOPICS
 24
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Artin reciprocity in the unramified case (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec24)
+[Artin reciprocity in the unramified case (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec24)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -240,7 +240,7 @@ TOPICS
 25
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The ring of adeles, strong approximation (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec25)
+[The ring of adeles, strong approximation (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec25)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -249,7 +249,7 @@ TOPICS
 26
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The idele group, profinite groups, infinite Galois theory (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec26)
+[The idele group, profinite groups, infinite Galois theory (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec26)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -258,7 +258,7 @@ TOPICS
 27
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Local class field theory (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec27)
+[Local class field theory (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec27)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -267,7 +267,7 @@ TOPICS
 28
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Global class field theory and the Chebotarev density theorem (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec28)
+[Global class field theory and the Chebotarev density theorem (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec28)
 {{< tdclose >}}
 
 {{< trclose >}}

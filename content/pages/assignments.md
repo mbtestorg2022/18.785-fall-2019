@@ -31,7 +31,7 @@ PROBLEM SETS
 3 and 4
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit18_785f19_pset2)
+[Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit18_785f19_pset2)
 {{< tdclose >}}
 
 {{< trclose >}}

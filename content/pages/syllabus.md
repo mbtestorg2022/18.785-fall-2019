@@ -50,7 +50,7 @@ Number theory is a vast subject, and it is good to see it from many different pe
 
 _Suggested Textbooks_
 
- Cassels, John William Scott, and Albrecht Fröhlich, eds. _[Algebraic Number Theory](https://www.lms.ac.uk/publications/algebraic-number-theory)_. 2nd edition. London Mathematical Society, 2010. ISBN: 9780950273426. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[errata (PDF)](http://wwwf.imperial.ac.uk/~buzzard/CFerrata.pdf)).
+ Cassels, John William Scott, and Albrecht Fröhlich, eds. _[Algebraic Number Theory](https://www.lms.ac.uk/publications/algebraic-number-theory)_. 2nd edition. London Mathematical Society, 2010. ISBN: 9780950273426. ([errata (PDF)](http://wwwf.imperial.ac.uk/~buzzard/CFerrata.pdf)).
 
 Davenport, Harold. _[Multiplicative Number Theory](https://link.springer.com/book/10.1007%2F978-1-4757-5927-3)_. 3rd edition. Springer, 2000. ISBN: 9780387950976.
 
@@ -86,7 +86,7 @@ Eisenbud, David. _[Commutative Algebra with a View Toward Algebraic Geometry](ht
 
 Matsumura, Hideyuki. _[Commutative Ring Theory](https://www.cambridge.org/core/books/commutative-ring-theory/02819830750568B06C16E6199F3562C1)_. Cambridge University Press, 1989. ISBN: 9780521367646. \[Preview with [Google Books](https://books.google.com/books?id=yJwNrABugDEC&pg=PAfrontcover#v=onepage&q&f=false)\]
 
-Milne, J. S. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_A Primer of Commutative Algebra_ (PDF)](https://www.jmilne.org/math/xnotes/CA.pdf), 2017. Available at [J. S. Milne Mathematics Site](http://www.jmilne.org/math/index.html).
+Milne, J. S. [_A Primer of Commutative Algebra_ (PDF)](https://www.jmilne.org/math/xnotes/CA.pdf), 2017. Available at [J. S. Milne Mathematics Site](http://www.jmilne.org/math/index.html).
 
 Problem Sets
 ------------
